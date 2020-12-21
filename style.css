@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+p {
+    margin: 30px;
+    text-align: justify;
+}
+
+img {
+    width: 50%;
+    height: 40%;
+    position: absolute;
+    left: 320px;
+    top: 200px;
+}
+.one {
+    margin: 30px;
+    text-align: justify;
+    position: absolute;
+    left: 5px;
+    top: 600px;
+}
